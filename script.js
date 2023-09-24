@@ -104,7 +104,7 @@ let player = {
 }
 
 let acc = 0.005
-let fric = 0.03
+let fric = 0.3
 
 let angAcc = 0.003
 let angFric = 0.05
